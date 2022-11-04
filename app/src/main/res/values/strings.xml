@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">My Portfolio</string>
+
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+
+    <string name="education1">Bachelor Degree</string>
+    <string name="education2">Short Course</string>
+    <string name="education3">Short Course</string>
+
+    <string name="course1">Mathematics and ComputerScience</string>
+    <string name="course2">Data Analytics</string>
+    <string name="course3">Software Engineering</string>
+
+    <string name="school1">Multimedia University of Kenya</string>
+    <string name="school2">Coursera</string>
+    <string name="school3">Moringa School</string>
+
+    <string name="duration1">Sept 2020 - July 2024</string>
+    <string name="duration2">Mar 2022 - Aug 2022</string>
+    <string name="duration3">Nov 2022 - May 2023</string>
+
+
+    <string name="android1">Android Development</string>
+    <string name="dataanalytics">Data Analytics</string>
+    <string name="UX">UX/UI Design</string>
+    <string name="IT">IT Support</string>
+
+
+
+    <string name="ux"> I practice UX design where I am aimed to deliver experienced Digital UI so as to fully utilize my career as a UX
+    designer. To be able to overview color settings and get information about
+    complex vectors.I also have certification from Coursera in UX/UI Design.</string>
+
+    <string name="android"> I am an Android developer who is determined to creating android apps that will
+        make things easier.I know  how to work with MVVM Retrofit, data storage, dao and
+        other architecture in android studio.</string>
+
+    <string name="data"> I am a certified data analyst from Coursera where I am able to analyze data and present it. I also do customer
+        service support.Through the certification I use software such as SPSS. I am also
+        good ant python language. After I analyze data I clean it an then present it in
+        presentable diagrams both in 2D and 3D. </string>
+
+    <string name="ItSupport"> I got skills on IT Support with responsibilities such as diagnosing problems
+        and delivering workable solutions via phone email or desk and
+        also ensure that all user issues are resolved with agreed service
+        level and rapport building. Through my certification I am able to work with wide
+        operating systems such as Windows and Linux.</string>
+</resources>
